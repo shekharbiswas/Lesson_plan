@@ -4,3 +4,4 @@
 2. Create Stackoverflow account
 3. OOPS - Python book ( recommendation )
 4. Look over the website ( https://ride.capitalbikeshare.com/ )
+5. Polar dataframe (https://pola.rs/)
