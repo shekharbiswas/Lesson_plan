@@ -10,6 +10,3 @@
 7. checking
 
 8. just a new line
-
-fnsdfkndf
-dsddafa
