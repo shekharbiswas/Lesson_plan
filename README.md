@@ -5,10 +5,10 @@ The database schema is here:
 [General Bikeshare Feed Specification (GBFS)](https://github.com/MobilityData/gbfs/blob/master/gbfs.md)
 
 
-Links of all JSON Files:
+## Links of all JSON Files:
 - https://gbfs.capitalbikeshare.com/gbfs/gbfs.json
 
-- Example:
+## Example:
 
 Name : URL
 
