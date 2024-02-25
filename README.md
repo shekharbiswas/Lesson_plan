@@ -1,5 +1,4 @@
-# Project + Learning
-
+# Schema_Project
 
 The database schema is here:
 [General Bikeshare Feed Specification (GBFS)](https://github.com/MobilityData/gbfs/blob/master/gbfs.md)
